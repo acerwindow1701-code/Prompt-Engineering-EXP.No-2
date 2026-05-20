@@ -57,7 +57,7 @@ User Experience
 
 After comparing all outputs, it was observed that role-based prompting on ChatGPT produced the most understandable and balanced summaries. Chain-of-thought prompting on Claude provided highly accurate technical summaries, while Gemini performed best in terms of speed.
 
-<img width="1237" height="401" alt="image" src="https://github.com/user-attachments/assets/ff51639f-a408-4aa9-ad3c-94651fc70fe2" />
+<img width="1190" height="432" alt="image" src="https://github.com/user-attachments/assets/821bd3e9-acfd-4ae1-8bf6-cc7b312fd7c0" />
 
 
 RESULT:
